@@ -78,4 +78,22 @@
   margin-top: 40px;
 }
 
+.terminal{
+margin: 0 auto;
+padding: 0 auto;
+max-width: 800px;
+width: 50%;
+max-height: 800px;
+overflow: auto;
+}
+
+pre{
+background-color: black;
+color: white;
+}
+
+code{
+
+}
+
 
